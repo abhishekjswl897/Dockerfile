@@ -1,4 +1,4 @@
-FROM centos:letest
+FROM centos:latest
 MAINTAINER  abhishekjswl897@gmail.com
 RUN yum install -y httpd \
 Zip \
